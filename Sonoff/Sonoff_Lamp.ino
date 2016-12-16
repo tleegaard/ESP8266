@@ -1,3 +1,4 @@
+// https://community.home-assistant.io/t/sonoff-homeassistant-alternative-firmware-for-sonoff-switches-for-use-with-mqtt-ha/2332/134
 #include <MQTT.h>
 #include <PubSubClient.h>
 #include <PubSubClient_JSON.h>
